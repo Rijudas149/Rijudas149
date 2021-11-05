@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **tamal3801das@gmail.com**
 
-- 📄 Know about my experiences [Click Here](https://bit.ly/3DN3OMw)
+- 📄 Know about my experiences [Click Here](https://bit.ly/3whXEBm)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
