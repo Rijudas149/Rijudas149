@@ -9,15 +9,13 @@
 
 - 🌱 I’m currently pursuing **B.Tech in Information Technology from Government College of Engineering and Leather Technology, Kolkata**
 
-- 👯 I’m looking for **internships**
-
 - 🤝 I’m looking for help with **opensource projects**
 
-- 👨‍💻 All of my projects are available at [https://tamaldas03.netlify.app/](https://tamaldas03.netlify.app/)
+- 👨‍💻 All of my projects are available at [Here](https://tamaldas03.netlify.app/)
 
 - 📫 How to reach me **tamal3801das@gmail.com**
 
-- 📄 Know about my experiences [Click Here](https://bit.ly/3whXEBm)
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1uqbPNTPiseO28imJjTyB0z8PCJsKDV8K/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
