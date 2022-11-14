@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [Here](https://tamaldas03.netlify.app/)
 
-- 📫 How to reach me **tamal3801das@gmail.com**
-
 - 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1uqbPNTPiseO28imJjTyB0z8PCJsKDV8K/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
