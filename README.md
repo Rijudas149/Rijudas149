@@ -1,19 +1,19 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Tamal Das</h1>
-<h3 align="center">A passionate Front-End developer, Technical Content Writer and Competitive Programmer from India looking for new opportunities</h3>
+<h3 align="center">A passionate Front-End developer, Technical Content Writer, and Competitive Programmer from India looking for new opportunities</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rijudas149&label=Profile%20views&color=0e75b6&style=flat" alt="Rijudas149" /> </p>
 
 - 🔭 I’m currently exploring **opensource projects and hackathons**
 
-- 🌱 I’m currently pursuing **B.Tech in Information Technology from Government College of Engineering and Leather Technology, Kolkata**
+- 🌱 I have currently pursued **B.Tech degree in Information Technology from Government College of Engineering and Leather Technology, Kolkata**
 
 - 🤝 I’m looking for help with **opensource projects**
 
 - 👨‍💻 All of my projects are available at [Here](https://tamaldas03.netlify.app/)
 
-- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1uqbPNTPiseO28imJjTyB0z8PCJsKDV8K/view?usp=share_link)
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1K7Jbfup6OWEk8rC8V7IwZUyIuzagKCbT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
