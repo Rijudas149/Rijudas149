@@ -7,13 +7,15 @@
 
 - 🔭 I’m currently exploring **opensource projects and hackathons**
 
-- 🌱 I have currently pursued **B.Tech degree in Information Technology from Government College of Engineering and Leather Technology, Kolkata**
+- 🌱 I've pursued **B.Tech degree in Information Technology from Government College of Engineering and Leather Technology, Kolkata**
+
+- 🌱 Currently pursuing **M.Tech degree in Computer Science and Engineering from National Institute of Technology, Durgapur**
 
 - 🤝 I’m looking for help with **opensource projects**
 
 - 👨‍💻 All of my projects are available at [Here](https://tamaldas03.netlify.app/)
 
-- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1K7Jbfup6OWEk8rC8V7IwZUyIuzagKCbT/view?usp=sharing)
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1X_GUHzMkCwDvI2uhJwl_0nuUtkfe0NBK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
