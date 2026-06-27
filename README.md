@@ -83,7 +83,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://www.svgrepo.com/show/303229/oracle-logo.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48"/>
 </p>
 
 ### Technologies
@@ -172,14 +172,6 @@
 </tr>
 
 </table>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rijudas149&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
 
 ---
 
