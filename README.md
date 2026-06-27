@@ -1,24 +1,30 @@
 <h1 align="center">
-  Hi 👋, I'm Tamal Das
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Tamal+Das;DWH%2FBI+Developer+@+Amdocs;M.Tech+CSE+Graduate+from+NIT+Durgapur;Data+Engineering+Enthusiast+🚀" />
 </h1>
 
 <h3 align="center">
 🚀 DWH/BI Developer | M.Tech CSE @ NIT Durgapur | B.Tech IT Graduate | Data Engineering Enthusiast
 </h3>
 
-<div align="center">
+<p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00C4FF&center=true&vCenter=true&width=800&lines=DWH%2FBI+Developer+at+Amdocs+Pune;M.Tech+CSE+Graduate+from+NIT+Durgapur;Data+Engineering+%7C+Backend+Development;Always+Learning+New+Technologies+🚀" />
+<img src="https://komarev.com/ghpvc/?username=Rijudas149&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-</div>
+<img src="https://img.shields.io/github/followers/Rijudas149?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/Rijudas149?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Learning-success?style=for-the-badge"/>
+
+</p>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎯 **Currently working as a DWH/BI Developer at Amdocs, Pune**
+🎯 Currently working as a **DWH/BI Developer at Amdocs, Pune**
 
 🎓 Completed **M.Tech in Computer Science & Engineering** from **NIT Durgapur (2025)**
 
@@ -26,20 +32,29 @@
 
 💡 Passionate about:
 
-- Data Warehousing
-- Business Intelligence
-- Backend Technologies
-- Database Systems
-- System Design
-- Problem Solving
-- Data Engineering
+✨ Data Warehousing
+
+✨ Business Intelligence
+
+✨ Backend Technologies
+
+✨ Database Systems
+
+✨ System Design
+
+✨ Problem Solving
+
+✨ Data Engineering
 
 🌱 Currently exploring:
 
-- Cloud Data Platforms
-- Big Data Technologies
-- Advanced Data Engineering Concepts
-- Monitoring & Observability
+☁️ Cloud Data Platforms
+
+📊 Big Data Technologies
+
+⚡ Advanced Data Engineering Concepts
+
+📈 Monitoring & Observability
 
 ⚡ Fun Fact:
 
@@ -70,37 +85,43 @@
 
 # 🚀 Tech Stack
 
-## Programming Languages
+## 💻 Programming Languages
 
-<p align="left">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,bash,git"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,bash,git&perline=4"/>
 
 </p>
 
 ---
 
-## Database Technologies
+## 🗄 Database Technologies
 
-<p align="left">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=postgres"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48"/>
+<img src="https://www.svgrepo.com/show/303229/oracle-logo.svg" width="55"/>
+
 </p>
 
-- Oracle DB
-- PostgreSQL
+### Expertise
+
+✅ Oracle DB
+
+✅ PostgreSQL
 
 ---
 
-## Data Engineering & BI Tools
+## ⚡ Data Engineering & BI Tools
 
-<p align="left">
+<p align="center">
 
-<img src="https://cdn.simpleicons.org/apachekafka/231F20" width="48" height="48"/>
+<img src="https://cdn.simpleicons.org/apachekafka"/>
 
-<img src="https://cdn.simpleicons.org/prometheus/E6522C" width="48" height="48"/>
+<img src="https://cdn.simpleicons.org/prometheus"/>
+
+<img src="https://img.shields.io/badge/Informatica-FF4F00?style=for-the-badge&logoColor=white"/>
 
 </p>
 
@@ -122,74 +143,48 @@
 
 ---
 
-# 🛠 Skills
+# 🛠 Skills Matrix
 
-<table>
-<tr>
+| 💻 Programming | 🗄 Database |
+|---|---|
+| C++ | Oracle DB |
+| Python | PostgreSQL |
+| Shell Scripting | SQL |
 
-<td>
-
-### 💻 Programming
-
-- C++
-- Python
-- Shell Scripting
-
-</td>
-
-<td>
-
-### 🗄 Database
-
-- Oracle DB
-- PostgreSQL
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### ⚡ Data Engineering
-
-- Informatica
-- Kafka
-- ETL Pipelines
-- Data Warehousing
-
-</td>
-
-<td>
-
-### 🔧 Tools
-
-- Git Bash
-- Prometheus
-- Linux Environment
-
-</td>
-
-</tr>
-
-</table>
+| ⚡ Data Engineering | 🔧 Tools |
+|---|---|
+| Informatica | Git |
+| Kafka | Linux |
+| ETL Pipelines | Bash |
+| Data Warehousing | Prometheus |
 
 ---
 
-# 📈 GitHub Stats
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rijudas149&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rijudas149&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rijudas149&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Rijudas149&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rijudas149&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
 
 <p align="center">
 
@@ -199,17 +194,30 @@
 
 ---
 
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rijudas149&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
 
 # 🌍 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://linkedin.com/in/tamal-das-2a950019b/">
+
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="mailto:tamal3801das@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 </p>
@@ -218,8 +226,11 @@
 
 <div align="center">
 
-### 🚀 "Transforming Data into Insights, One Pipeline at a Time."
+## 🚀 Transforming Data into Insights, One Pipeline at a Time.
 
-<img src="https://komarev.com/ghpvc/?username=Rijudas149&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:7F00FF&height=120&section=footer"/>
 
 </div>
+
